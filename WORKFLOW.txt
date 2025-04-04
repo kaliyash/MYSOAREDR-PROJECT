@@ -1,0 +1,32 @@
++--------------------+
+|  LimaCharlie (EDR) |
++--------------------+
+          |
+          v
++---------------------------+
+| Suspicious Activity Found |
++---------------------------+
+          |
+          v
++----------------------------+
+|   Tines Receives Alert     |
++----------------------------+
+          |
+          v
++----------------------------------+
+|  Analyst Email with Alert Link  |
++----------------------------------+
+          |
+          v
++-----------------------------+
+| Analyst Web Decision Page  |
+|     Isolate? (Yes/No)      |
++-----------------------------+
+      |               |
+  [Yes]             [No]
+   |                  |
+   v                  v
+System Isolated   No Action Taken
+   |                  |
+   v                  v
+Send TP Email     Send FP Email

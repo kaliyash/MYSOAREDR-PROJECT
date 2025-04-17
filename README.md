@@ -104,7 +104,7 @@ False Positive:
 
 "The alert was reviewed and marked as a False Positive. No further action has been taken."
 
-#AUTHOR
+# AUTHOR
 👤 Yashwardhan Singh
 👤 Ojas Gaur
 ######  Feel free to submit issues or pull requests for enhancements or bug fixes. ######

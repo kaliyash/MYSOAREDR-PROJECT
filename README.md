@@ -94,7 +94,7 @@ This project enhances security operations by automating alert responses and ensu
 ## Example Email Flow
 Initial Alert:
 
-"Suspicious activity detected on endpoint X. Click [here] to review and respond."
+"Suspicious activity detected on endpoint X."
 
 True Positive:
 
@@ -104,5 +104,7 @@ False Positive:
 
 "The alert was reviewed and marked as a False Positive. No further action has been taken."
 
-
+#AUTHOR
+👤 Yashwardhan Singh
+👤 Ojas Gaur
 ######  Feel free to submit issues or pull requests for enhancements or bug fixes. ######
